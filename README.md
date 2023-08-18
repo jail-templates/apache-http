@@ -1,5 +1,5 @@
 # Apache 2.4 (HTTP)
-Bastille template to install and configure the Apache HTTP server with some sane defaults.
+Bastille template to install and configure the Apache HTTP Server with some sane defaults.
 
 * httpd listens on port 80 (HTTP).
 * `DocumentRoot` is `/usr/local/www`.
